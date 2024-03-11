@@ -20,3 +20,5 @@ a = int(input("Entrez la valeur de a : "))
 b = int(input("Entrez la valeur de b : "))
 pgcd = euclide_algo(a, b)
 print(f"PGCD de {a} et {b} est : {pgcd}")
+
+input("Appuyez une touche pour quitter...")
