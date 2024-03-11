@@ -14,7 +14,7 @@ def euclide_algo(a, b):
 
     return r1
 
-print("KABUYA NSUNGULA Junior \t L2 Génie Informatique \n TP de Transmission de données et la Sécurité Informatique")
+print("KABUYA NSUNGULA Junior \t L2 Génie Informatique \nTP de Transmission de données et la Sécurité Informatique\n")
 
 a = int(input("Entrez la valeur de a : "))
 b = int(input("Entrez la valeur de b : "))
