@@ -13,8 +13,9 @@ def euclide_algo(a, b):
         r2 = r
 
     return r1
-a = 48
-b = 18
-gcd = euclide_algo(a, b)
+
+a = int(input("Entrez la valeur de a : "))
+b = int(input("Entrez la valeur de b : "))
+pgcd = euclide_algo(a, b)
 print("KABUYA NSUNGULA Junior \t L2 Génie Informatique \n TP de Transmission de données et la Sécurité Informatique")
-print(f"PGCD de {a} et {b} est : {gcd}")
+print(f"PGCD de {a} et {b} est : {pgcd}")
